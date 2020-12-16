@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter.font import *
 
 # change for github - 1
+# change for github - 2
 
 num1 = float(0)
 func = str('\0')
